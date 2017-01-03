@@ -1,0 +1,16 @@
+table, tr, td{
+    border: 1px solid black;
+}
+
+tr, td{
+    width: 10px;
+    height: 10px;
+}
+
+.redcell{
+    background-color: red;
+}
+
+.alive{
+    background-color: red;
+}
